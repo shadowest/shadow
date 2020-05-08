@@ -1,11 +1,7 @@
 # shadow
 利用 git 同步 github 指令
 ```python
-    # 右键点击 Git Bash HERE    
-    ccc尝试1
-    changshi
-    再次尝试 尝试同步 再次尝试pull
-
+    # 右键点击 Git Bash HERE
 
     git init
     # 初始化文件夹
