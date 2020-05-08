@@ -4,7 +4,7 @@
     # 右键点击 Git Bash HERE    
     ccc尝试1
     changshi
-    再次尝试 尝试同步
+    再次尝试 尝试同步 再次尝试pull
 
 
     git init
