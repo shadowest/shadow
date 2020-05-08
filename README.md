@@ -2,6 +2,7 @@
 利用 git 同步 github 指令
 ```python
     # 右键点击 Git Bash HERE
+    genggai
 
     git init
     # 初始化文件夹
